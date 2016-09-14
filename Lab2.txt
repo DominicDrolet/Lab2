@@ -1,0 +1,5 @@
+Q1: export PATH=$PATH:/home/dominic/Desktop
+4.2 fichier Ver.sh 
+Q2 ctrl+C ou ctrl+z
+4.5 fichier filetype.sh
+4.6 fichier nettoie.sh
